@@ -58,7 +58,9 @@ Fix buttons at the top of the page and in the carousel that are not currently wo
 
 ### Screenshot
 
-![Click](.//images/batman.jpg)
+![Batman](./images/Screenshot/batman.jpg)
 
 ### Links
+
+Deployed on GitHub Pages - https://michaelauricht.github.io/project-group-1/ 
 
